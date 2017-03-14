@@ -25,7 +25,7 @@ All generated files are created under ${build} directory
 
   <property name="name" value="xpp3"/>
   <property name="year" value="2008"/>
-  <property name="version" value="1.1.5"/>
+  <property name="version" value="1.1.7"/>
   <property name="xpp3_version" value="xpp3-${version}"/>
   <property name="xpp3_min_version" value="xpp3_min-${version}"/>
   <property name="xpp3_xpath_version" value="xpp3_xpath-${version}"/>
