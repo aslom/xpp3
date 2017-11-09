@@ -1,19 +1,11 @@
-<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
-<html>
-<head>
-   <title>XMLPULL V1 API Documentation</title>
-   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-   <meta name="Author" content="Aleksander Slominski">
-</head>
-<body bgcolor="white">
+# XML Pull Parser 3 (XPP3)
 
-<H1>XML Pull Parser 3 (XPP3) </H1>
-
-<h2>Quick introduction</h2>
+## Quick introduction
 
 <p>XPP3 is implementation of <a href="http://www.xmlpull.org/">XMLPULL V1 API</a>.(visit 
 its website at
 <a href="http://www.xmlpull.org/">http://www.xmlpull.org</a>).<p>
+
 XMLPULL V1 API defines a simple to use but still powerful common XML Pull 
 Parsing API that will work from small devices (J2ME compatible API and small 
 size) up to application servers (J2EE). XMLPULL parsers such as XPP3 can easily 
