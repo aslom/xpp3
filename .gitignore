@@ -1,2 +1,7 @@
-bin
-build
+bin/
+build/
+doc/api/*
+src/java/api/*
+src/java/samples/*
+src/java/tests/*
+src/xml/tests/*
